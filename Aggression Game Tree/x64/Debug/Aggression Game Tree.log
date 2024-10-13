@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\lawho\source\repos\Aggression Game Tree\Aggression Game Tree\main.cpp(41,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lawho\source\repos\Aggression Game Tree\Aggression Game Tree\main.cpp(45,8): warning C4101: 'inconsistentIndex': unreferenced local variable
+C:\Users\lawho\source\repos\Aggression Game Tree\Aggression Game Tree\main.cpp(127,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Aggression Game Tree.vcxproj -> C:\Users\lawho\source\repos\Aggression Game Tree\x64\Debug\Aggression Game Tree.exe
